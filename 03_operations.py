@@ -38,3 +38,4 @@ print(set_SymDiff)
 # Consiste en encontrar los elementos que son exclusivos de un conjunto o de otro. 
 # O tambien comprar dos conjuntos y encontrar los elementos que son diferentes.
 print(set_a ^ set_b)
+
